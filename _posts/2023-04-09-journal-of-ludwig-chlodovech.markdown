@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Journal of Ludwig Chlodovech"
 date: 2023-04-09 01:22:32 +0800
 categories: skyrim archives

@@ -1,0 +1,10 @@
+# main links
+main:
+  # - title: "Blog"
+  #   url: /blog/
+  # - title: "Game"
+  #   url: /game/
+  - title: "About"
+    url: /about/
+  # - title: "Contact"
+  #   url: /contact/

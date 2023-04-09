@@ -1,0 +1,19 @@
+﻿# /_data/authors.yml
+
+Greysuki:
+  name: "Greysuki"
+  bio: "This is test bio."
+  avatar: "/assets/images/Tuzki.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "tomchang25@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://TODO.HOPE.I.WILL.NOT.FORGOT.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Greysuki"
+    - label: "Gtihub"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://github.com/tomchang25"
